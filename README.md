@@ -1,0 +1,2 @@
+# FutureDemandCodingChallenge_Mousami
+This repository contains a Python script to crawl events data from the Lucerne Festival website and store it in a PostgreSQL database with a custom schema. the result table from database is saved in comma seperated value file names "Postgres_ResultTableof_ScrappedData". Additionally, there's a Dockerfile included to containerize the solution for easy deployment using Docker Compose.
